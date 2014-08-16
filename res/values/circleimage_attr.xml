@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="bingoCircleImage">
+        <attr name="border_InsideColor" format="color"/>
+        <attr name="border_OutsideColor" format="color"/>
+        <attr name="border_width" format="dimension"/>
+    </declare-styleable>
+</resources>
